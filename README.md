@@ -14,7 +14,7 @@
 | Imię Nazwisko | @login | Kierownik projektu | |
 | Imię Nazwisko | @login | Analityk wymagań | |
 | Imię Nazwisko | @login | Architekt / projektant BD | |
-| Olga Mróz | @olgamroz | Projektant UX/UI | |
+| Olga Maria Mróz | @olgamroz | Projektant UX/UI | |
 | Imię Nazwisko | @login | QA / wdrożenie | |
 
 ### Macierz odpowiedzialności (RACI)
